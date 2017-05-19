@@ -7,8 +7,8 @@ body {
 	line-height: 1.5em;
 	padding: 0 10px;
 }
-img ({
+img {
 	max-width: 80;
 	margin: auto;
 	display: block;
-})
+}
